@@ -42,7 +42,7 @@
  * Pins:
  * - PIR        -> GPIO 13     : Data wire
  * - DS18B20    -> GPIO 2      : Data wire
- * 
+ * `
  * ToDo: 
  * - return camera settings as JSON in MQTT msg
  * - OTA (??)
